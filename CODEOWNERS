@@ -1,0 +1,9 @@
+# Copyright (c) Stellrai Corporation. All rights reserved.
+
+# Automatically request reviews from the core team
+* @stellrai/core-team
+
+# Additional specific ownership (optional examples)
+# /docs/ @stellrai/docs-team
+# *.md @stellrai/docs-team
+# /src/security/ @stellrai/security-team
